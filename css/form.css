@@ -138,10 +138,12 @@
   
   }
 
+  /* Laptop */
+
   @media screen and (min-width: 1158px) {
     .container-block-form {
         flex-direction: row;
-        gap: 32px;
+        gap: 32px; 
     }
 
     .form-heading {
@@ -163,6 +165,7 @@
     }
   }
 
+  /* The end /*
 
 
 
